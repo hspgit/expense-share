@@ -1,0 +1,26 @@
+{
+  "name": "expense-share-server",
+  "version": "1.0.0",
+  "description": "Expense share server to provide a GraphQL API for the Expense Share application.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.0.0",
+    "@graphql-tools/merge": "^9.1.1",
+    "@graphql-tools/mock": "^9.0.0",
+    "@graphql-tools/schema": "^10.0.0",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "mongodb": "^6.18.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.1",
+    "nodemon": "^3.0.1"
+  },
+  "author": "Hrishikesh Pradhan @hspgit",
+  "license": "MIT",
+  "private": true,
+  "type": "module"
+}
