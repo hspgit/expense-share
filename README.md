@@ -197,7 +197,7 @@ The application uses the following collections:
 ![Expense Share Statistics](./screenshots/iter3-stats-page.png)
 
 
-### None
+### Note
 - This application was developed from scratch as a final project for CS5610 Web Development 
 course at Northeastern University, Boston, MA.
 - Please refer to the readme files in the `client` and `server` directories for more details on 
